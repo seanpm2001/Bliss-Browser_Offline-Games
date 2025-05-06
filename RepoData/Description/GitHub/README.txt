@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️🕹️ The source repository for the Bliss Browser Offline games component, allowing built-in offline games to function within Bliss Browser.
